@@ -1,0 +1,11 @@
+D:\Users\Jeremy\source\repos\Module03TP1\Module03TP1\obj\Debug\netcoreapp3.1\Module03TP1.csprojAssemblyReference.cache
+D:\Users\Jeremy\source\repos\Module03TP1\Module03TP1\obj\Debug\netcoreapp3.1\Module03TP1.AssemblyInfoInputs.cache
+D:\Users\Jeremy\source\repos\Module03TP1\Module03TP1\obj\Debug\netcoreapp3.1\Module03TP1.AssemblyInfo.cs
+D:\Users\Jeremy\source\repos\Module03TP1\Module03TP1\bin\Debug\netcoreapp3.1\Module03TP1.exe
+D:\Users\Jeremy\source\repos\Module03TP1\Module03TP1\bin\Debug\netcoreapp3.1\Module03TP1.deps.json
+D:\Users\Jeremy\source\repos\Module03TP1\Module03TP1\bin\Debug\netcoreapp3.1\Module03TP1.runtimeconfig.json
+D:\Users\Jeremy\source\repos\Module03TP1\Module03TP1\bin\Debug\netcoreapp3.1\Module03TP1.runtimeconfig.dev.json
+D:\Users\Jeremy\source\repos\Module03TP1\Module03TP1\bin\Debug\netcoreapp3.1\Module03TP1.dll
+D:\Users\Jeremy\source\repos\Module03TP1\Module03TP1\bin\Debug\netcoreapp3.1\Module03TP1.pdb
+D:\Users\Jeremy\source\repos\Module03TP1\Module03TP1\obj\Debug\netcoreapp3.1\Module03TP1.dll
+D:\Users\Jeremy\source\repos\Module03TP1\Module03TP1\obj\Debug\netcoreapp3.1\Module03TP1.pdb
